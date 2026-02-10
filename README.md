@@ -11,8 +11,8 @@ This repository contains a comprehensive machine learning pipeline for classifyi
 - **Size**: 36,662 comments after preprocessing
 - **Features**:
   - `clean_comment`: Preprocessed text content
-  - `category`: Sentiment labels (mapped from [-1, 0, 1] to [2, 0, 1])
-- **Classes**: Negative (2), Neutral (0), Positive (1)
+  - `category`: Sentiment labels mapped to [-1, 0, 1]
+- **Classes**: Negative (-1), Neutral (0), Positive (1)
 
 ## 🧪 Experiment Series
 
